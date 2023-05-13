@@ -6,3 +6,5 @@ class Solution:
                 if nums[i] == nums[j]:
                     return True
         return False
+
+#(O(n²))

@@ -12,3 +12,5 @@ class Solution:
             right += 1
 
         return False
+
+# O(n log n )
