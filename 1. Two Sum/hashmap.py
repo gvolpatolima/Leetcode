@@ -7,5 +7,3 @@ class Solution:
             if complement in num_indices:
                 return [num_indices[complement], i]
             num_indices[num] = i
-
-        return None
